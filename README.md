@@ -55,6 +55,25 @@ power at grid.
 The PP has set up an integrated sugar mill with sugar crushing capacity of 7500 TCD. This will
 remove the dependency of the sugar mill on the power supplied from the state grid. 
 
+Monthly joint meter reading of main meters installed at interconnection points are taken and
+signed by authorized officials of and MSETCL on the first five days of every month. Records of
+this joint meter reading are maintained by M/S Shree Dudhganga Vedganga Sahakari Sakhar
+Karkhana Ltd and MSETCL. Daily and monthly reports stating the net powerexport is prepared
+by the shift in-charge and verified by the plant manager. Power Purchase Agreement (PPA) with
+MSETCL has been signed. Reliability of energy data is maintained as per PPA. M/S Shree
+Dudhganga Vedganga Sahakari Sakhar Karkhana Ltd archives and preserves all the monthly
+invoices raised against net saleable energy and also archives the complete metering data at
+generation electronically.
+
+All the records are maintained at site. Maharashtra Pollution Control
+Board (MPCB) and Environment Department of Maharashtra have prescribed standards of
+environmental compliance and monitor the adherence to the standards M/S Shree Dudhganga
+Vedganga Sahakari Sakhar Karkhana Ltd has received the ‘Consent to Operate’ the plant. State’s
+regulatory body of power is Maharashtra State Electricity Transmission Company Limited
+(MSEDCL) and they have issued consent for the installation of co-generation power plant of 35
+MW capacity. As a buyer of the power, the MSEDCL is a major stakeholder in the project and
+hold the key to the commercial success of the project.
+
 
 
 
